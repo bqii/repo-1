@@ -1151,3 +1151,22 @@ Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Name: Cephei Tweak Support
 Support: https://hashbang.productions/support/
 
+Package: xyz.skitty.sixls
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 2236
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/SixLS.1.1-1.deb
+Size: 1463588
+MD5sum: e00f1bc4f426fc942e7cb591f1b169b6
+SHA1: adbbea1d3132261eefdfcaf727926d868291f66d
+SHA256: 68363ca3a1ed5da0f1ee4a8ef4721411ae193280f9749b781ddc4d7e424c9fd4
+Section: Tweaks
+Description: iOS 6 Style Lock Screen!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
+Name: Six (LS)
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
+
