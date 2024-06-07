@@ -19,26 +19,6 @@ Author: Apibug.com
 Name: ApibugTextToVoice
 
 Package: MisakaHelper
-Version: 1.9-8
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Misaka
-Depends: mobilesubstrate
-Conflicts: MisakaHelper
-Replaces: MisakaHelper
-Provides: MisakaHelper
-Filename: ./debs/MisakaHelper_1.9-8_iphoneos-arm64_rootless.deb
-Size: 11226956
-MD5sum: 9c7b2d50f4fb6487d88c39e400bd7d6e
-SHA1: 67b6005e1775fe6ed7cb2837ce9e8111a9ba5314
-SHA256: 672a33980aec3b62441ab5e60cca2965b26b663afbcea7ab994ac9c7e494334e
-Section: Tweaks
-Priority: optional
-Description: MisakaHelper
-Author: Misaka
-Name: MisakaHelper
-
-Package: MisakaHelper
 Version: 1.9-9
 Architecture: iphoneos-arm64
 Essential: no
