@@ -857,23 +857,6 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.pn
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
-Package: com.xx.dyhook
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 2444
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/libundirect.1.1.6.deb
-Size: 7916
-MD5sum: 0b0c6b4ecc162441c1908b5f144f23f3
-SHA1: d9282ccb5c62bd68974853f2fb956e8f210a7025
-SHA256: 9c70119810d3042d74265bb94c0cadde0f8accf6e2e4b13d05c964e0d3ae44fc
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm64
