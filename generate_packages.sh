@@ -25,11 +25,11 @@ gzip -fk Packages
 
 # Create the Release file
 cat <<EOF > Release
-Origin: 💫Axs repo✨
-Label: 💫Axs repo✨
+Origin: 💫A先生✨
+Label: 💫A先生✨
 Suite: stable
 Version: 1.0
-Codename: Axs repo
+Codename: A先生
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
