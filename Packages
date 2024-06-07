@@ -590,24 +590,6 @@ Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch
 
-Package: com.opa334.libsandy
-Version: 1.1.3
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 340
-Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Filename: ./debs/com.opa334.libsandy_1.1.3_iphoneos-arm64.deb
-Size: 12266
-MD5sum: 007f4f9150b1b2f3336ff133e6c99f1d
-SHA1: 06a39a4ebec196eeb29bc2101f0ccee1203c3429
-SHA256: 5371019a18baf38603aeb674ccbf3911c0a7b164dfc4752cb3c357dbe2dec612
-Section: System
-Description: Securely extend the sandbox of system processes and user applications
-Tag: role::developer
-Author: opa334
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
-Name: libSandy
-
 Package: com.opa334.trollstorehelper
 Version: 2.0.15
 Architecture: iphoneos-arm64
