@@ -1085,22 +1085,6 @@ Depiction: https://chariz.com/get/atria
 Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
 Name: Atria
 
-Package: netskao.wechatpurification
-Version: 4.2-6-END
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 16708
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
-Size: 6278058
-MD5sum: e386a95420df2b52d4638bc60a7cd07e
-SHA1: ddff36cdf9de33b59a66b380b5eaa3c3244d6efa
-SHA256: 61ab3d42b2d7a41c2dbc1670987874b3971c4ad33ca7c956544584785e2b71c6
-Section: Netskao-Tweaks
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Name: 微信净化END
-
 Package: netskao.xhsnoads-rootless
 Version: 1.3-7
 Architecture: iphoneos-arm64
