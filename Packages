@@ -951,6 +951,23 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: 0xkuj <0xkujz@gmail.com>
 Name: StoreSwitcher 2 (rootless)
 
+Package: com.yourepo.themepro.themepro-154-rootless
+Version: 2.8.9
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: themepro
+Replaces: themepro
+Filename: ./debs/ThemePro-2.8.9-Rootless.2.8.9.deb
+Size: 6136252
+MD5sum: b3d31a5b7a222df9da8c70f6c8f5dbc2
+SHA1: e0830405af8a025afa20cbe3a95acb4249b15bb1
+SHA256: 3d6aa9c49ae9acee6a2b6e6507fc366648bd8826691d745a52f3b83f7eeb65a6
+Section: Tweaks
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Name: ThemePro-2.8.9-Rootless
+
 Package: cpm.dao.tinge
 Version: 1.0
 Architecture: iphoneos-arm64
