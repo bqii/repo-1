@@ -38,26 +38,6 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
-Package: ThemePro
-Version: 2.8.7
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Provides: ThemePro
-Filename: ./debs/ThemePro-iphoneos-arm64_Rootless.deb
-Size: 6072776
-MD5sum: 59b3c8a3d75614b9182260a552fc3319
-SHA1: 27241156a973a7e20782786dac5f9d2455950779
-SHA256: ec8fdb60b345154ecee8107c65c176c25bd1e1ad175525bd9d385c81892c09e2
-Section: custom
-Priority: optional
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM
-Name: ThemePro-2.8.7-Rootless
-
 Package: byg.iosios.net.crane-rootless
 Version: 1.3.14-6
 Architecture: iphoneos-arm64
@@ -506,23 +486,6 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner Pro
-
-Package: com.hk.rootless.cc
-Version: 2.0.3
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake
-Filename: ./debs/CCLess++(rootless).deb
-Size: 479136
-MD5sum: bab970c89c6b5c81706e020f033bf5a5
-SHA1: 408589f36c9a5c5fa2df97e174fd5df11652f1e2
-SHA256: cb9ee19eccd9cfaffaa01ace1c2f3865e741b8987175e1bcac2c75863d5bf77f
-Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
-Author: 妖刀
-Name: CCLess++(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
 Package: com.hk.rootless.cc
 Version: 2.0.5
