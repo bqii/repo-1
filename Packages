@@ -76,22 +76,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SafariX浏览器增强-Rootless
 Sponsor: 搬运工
 
-Package: cax.zhumi.themeManager
-Version: 1.6.1
-Architecture: iphoneos-arm
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/cax.zhumi.themeManager_1.6.1_iphoneos-arm.deb
-Size: 2840030
-MD5sum: fe89dd6c9bb51c362dab140cec409a6f
-SHA1: 390ca3574feea9ea6c4dfe7c5a103810391e655a
-SHA256: 9b3dbad3dc821ef68a8ff5c2ecb23ad34b30d0714964618d2fd472f813b40efa
-Section: Themes
-Priority: optional
-Description: 关注公众号[猪咪小屋]
-Author: zhumi
-Icon: http://mmbiz.qpic.cn/mmbiz_png/GXzfZseicQ8eiavkOXFkccWNnp3UN9YGcribuKsan6TibhRkX70Mrs5CxcO22CBl8nRhd7zem8QOiar9G64HxmjB2Yw/0?wx_fmt=png&wxfrom=401
-Name: 猪咪
-
 Package: cn.llld.wxx
 Version: 1.0.6
 Architecture: iphoneos-arm64
