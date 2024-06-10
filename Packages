@@ -657,22 +657,6 @@ Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/ic
 Name: CopyVault
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
 
-Package: com.sunshinesong.floating-keyboard
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 328
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sunshinesong.floating-keyboard_0.0.1_iphoneos-arm64.deb
-Size: 82746
-MD5sum: a4c3b8ba789a30ce4a058682eb869fc5
-SHA1: 3b5fb1ba57007c9d3149e154e401be3c4b876b16
-SHA256: e43bf790ef28ccd86beb6330b69523a6d6269ed0c40034df2617fc9d146a1d39
-Section: Tweaks
-Description: 悬浮键盘，安装即生效，无设置页面。使用方式：双指捏合键盘可实现悬浮键盘，双指拉伸可关闭悬浮键盘。
-Author: sunshinesong
-Name: floating-keyboard
-
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.4
 Architecture: iphoneos-arm64
