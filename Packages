@@ -126,23 +126,6 @@ Author: Mao
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
 
-Package: com.25mao.msgfilt.rootless
-Version: 1.0-5.1
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/xpcToolStrap.1.1-1+debug.deb
-Size: 892
-MD5sum: fc3f09a1a784f271c5c63f7229e7ed51
-SHA1: 65ea58ce98344b2975f66ee1905c4c131dc2ae39
-SHA256: 53428afae1f2245c1af39459b671fcdf44d16aa5ef9da028abc8c413188b91e7
-Section: Rootless
-Priority: optional
-Description: 消息屏蔽助手
-Author: Mao
-Name: 消息屏蔽助手-Rootless
-Sponsor: admin@25mao.com
-
 Package: com.25mao.youquan.rootless
 Version: 3.0-8
 Architecture: iphoneos-arm64
