@@ -672,22 +672,6 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
-Package: com.pingfan.wechat
-Version: 2.1-6
-Architecture: iphoneos-arm64e
-Maintainer: pingfan
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/虚拟视频2.1-6无根.deb
-Size: 12547682
-MD5sum: 9c92d070691104eb96dbde0209e262cb
-SHA1: c44188b64c026bdc97f5c6406b29eed325579abc
-SHA256: f13a4cae4e455b2eb0dc0a6c54bb6b2fffb69d3070bde7266e8607edc804e33a
-Section: Tweaks
-Description: 精简一些内容。。。。
-Author: pingfan
-Name: 虚拟视频
-
 Package: com.ryannair05.cask3
 Version: 1.0.2
 Architecture: iphoneos-arm64
