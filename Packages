@@ -903,6 +903,22 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.pn
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.wechat.dumpweak
+Version: 1.9.9
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 23996
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/锤子助手_1.9.9无根.deb
+Size: 12661794
+MD5sum: d6d813cb14c652e8bf6c33803e6dddce
+SHA1: 0630d44bbc8b28b06a3b9bdf449de5e59b6a6047
+SHA256: fe826ee6b58cab945eb9cbb28dcf067120525ae1f64ac2a83aba9afc92a90c70
+Section: Tweaks
+Description: Dump Tweak
+Author: DumpApp
+Name: DumpTweak
+
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm64
