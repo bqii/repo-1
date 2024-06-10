@@ -233,40 +233,6 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
-Package: com.dao.appprotectrootless
-Version: 1.8.8
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless
-Filename: ./debs/AppProtect 隐私保护(rootless).deb
-Size: 155400
-MD5sum: 0065e553b19c5fd668973cd6bf5f8625
-SHA1: c297e95b05bfefaa6a03227c360284617c35e2dd
-SHA256: 2011cd161bd3db271ee5a926f46cb41cf5c0e57d7ff02dd73d30134396ad21f9
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.apptools15rootless
-Version: 1.2.6
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless
-Filename: ./debs/AppTools15-16(rootless).deb
-Size: 195768
-MD5sum: 5e992bb6b3f15c84022a9976ec18215e
-SHA1: f62a021ccb4c0c6c1403aa6339b3f2a54a23cab5
-SHA256: 87578c3f3b04ee54601f63a86688dd7d8f28423c848a7d4397752217e532b3f4
-Section: 嗨-付费
-Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-16(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
 Package: com.dao.bhtiktokmod
 Version: 2.3
 Architecture: iphoneos-arm64
