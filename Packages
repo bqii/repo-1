@@ -366,6 +366,22 @@ Description: 便捷截屏3，已由CBZ破解。已修正OCR，源内可安装中
 Author: Jonathan Winger-lang
 Name: Snapper 3(rootless)
 
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24100
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/锤子助手_2.0.0无根.deb
+Size: 9364024
+MD5sum: edabe5f9dd859bc197253963f1c6aaaf
+SHA1: ba506b1f26c283df7d9faea705fda9d38ff44452
+SHA256: c3f306491fa846dafef4c3004dc1c08f4eb95f3a090d5bb1608ec56c77067f4e
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Name: 锤子助手-Rootless
+
 Package: com.dvntm.ytlite
 Version: 4.0
 Architecture: iphoneos-arm64
