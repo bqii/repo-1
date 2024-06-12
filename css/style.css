@@ -214,8 +214,8 @@ body {
 }
 
 .main-bg {
-    background: url(../images/Axsbj.png) no-repeat center; */
-    background-image: linear-gradient(0deg, #30DDCE 0%, #536976 100%); */
+    /* background: url(../images/beijing.png) no-repeat center; */
+    /* background-image: linear-gradient(0deg, #30DDCE 0%, #536976 100%); */
     background-color: transparent;
     background-size: cover;
     -webkit-background-size: cover;
@@ -233,9 +233,9 @@ body {
 
 /* title */
 h1 {
-    margin-top: 150px;
-    font-size: 0vw;
-    color:#ff0000;
+    margin-top: 70px;
+    font-size: 2.8vw;
+    color: #fff;
     text-align: center;
     padding: 1.5vw 1vw 2vw;
     letter-spacing: 3px;
@@ -252,14 +252,14 @@ h1 {
 .bg-content-w3pvt {
     max-width: 400px;
     margin: 0 auto;
-    background: 0;
-    backdrop-filter: blur(0px);
+    background: rgba(255, 255, 255, .6);
+    backdrop-filter: blur(10px);
     text-align: center;
 }
 
 .top-content-style {
     padding: 2vw 4vw 4vw;
-    background: 0;
+    background: #1cc7d0;
 }
 
 .top-content-style img {
@@ -271,7 +271,7 @@ h1 {
 }
 
 .sub-main-w3 form {
-    background: 0;
+    background: #ffff;
     padding: 2em;
     -webkit-box-shadow: 2px 5px 16px 2px rgba(16, 16, 16, 0.18);
     -moz-box-shadow: 2px 5px 16px 2px rgba(16, 16, 16, 0.18);
