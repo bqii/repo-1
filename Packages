@@ -830,23 +830,6 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.pn
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
-Package: com.xx.dyhook
-Version: 2.0.3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 3160
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_2.0.3_iphoneos-arm64.deb
-Size: 957952
-MD5sum: f1a126bad503337344c6a52929edb4c3
-SHA1: b4f5e09107b701fe609751f96c479cc734ac5961
-SHA256: 1c38b24c8517ca14657ee033ac6d1826a40196a6ce6797bd81a6e10304da3725
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
 Package: com.xx.ecnyhook
 Version: 1.0.2
 Architecture: iphoneos-arm64
