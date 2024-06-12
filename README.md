@@ -16,7 +16,7 @@
 
 聊天交流，请关注Telegram群：https://t.me/oncar2
 
-聊天交流，请添加VX进玩机群：VCR666y
+聊天交流，请添加VX进玩机群：VCR66T
 
 
 ![](http://profile-counter.glitch.me/evilbutcher/count.svg)

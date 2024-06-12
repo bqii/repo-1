@@ -1,8 +1,8 @@
-Origin: YourRepoName
-Label: YourRepoName
+Origin: 💫A先生✨
+Label: 💫A先生✨
 Suite: stable
 Version: 1.0
-Codename: yourrepo
-Architectures: iphoneos-arm
+Codename: A先生
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: YourRepoDescription
+Description: 自用插件分享，有问题请卸载！！！
