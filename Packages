@@ -912,6 +912,40 @@ Description: Adds a button to switch account in App Store account page on iOS 11
 Author: 0xkuj <0xkujz@gmail.com>
 Name: StoreSwitcher 2 (rootless)
 
+Package: com.yourepo.dzmohavip.storeswitcher-rootless
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: subdiox <ipodtouchdemohammed313@gmail.com>
+Depends: firmware (>= 15), mobilesubstrate
+Filename: ./debs/com.yourepo.dzmohavip.storeswitcher-rootless_1.0.2_iphoneos-arm64.deb
+Size: 73176
+MD5sum: 7388583bcc565097bce758f9a27ae4a1
+SHA1: a2aec5a2132dd301230a3fd12c65d70618ba279e
+SHA256: d467bb4aefb70cefedebdcc6f7a6ed5d25dbd3e86fb2c91e9966483ac2977b8c
+Section: 工具
+Description: App Store帐户页面中快速切换账号。
+Author: subdiox <ipodtouchdemohammed313@gmail.com>
+Name: StoreSwitcher-Rootless账号切换
+
+Package: com.yourepo.lly.adsspee-rootless
+Version: 1.1.1K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 600
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/com.yourepo.lly.adsspee-rootless_1.1.1K_iphoneos-arm64.deb
+Size: 104396
+MD5sum: 886d3acdac563e109e26e436a0302fd7
+SHA1: 5fdafc20c1342d1bc79fcbb0bf54087ace5d8944
+SHA256: 0701c88574b5d7f9f3675507b7f7a8309fec5d178c23f484d8dfab84dbbeff15
+Section: 工具
+Description: 快速跳过激励视频广告，奖励正常领取。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/videoadsspeed.html
+Name: VideoAdsSpeed-Rootless【快速跳过广告】
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/adsspeesileo
+
 Package: com.yourepo.themepro.themepro-154-rootless
 Version: 2.8.9
 Architecture: iphoneos-arm64
@@ -929,6 +963,23 @@ Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成
 Author: MustangYM <mm13299079785@gmail.com>
 Name: ThemePro-2.8.9-Rootless
 
+Package: com.zqbb.savephotos
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.zqbb.savephotos_1.1_iphoneos-arm64.deb
+Size: 4584
+MD5sum: 4013a595786b62f1bbf89ec1df198bd3
+SHA1: 0079dd6920f73f1b69731412cfd53fb263791bc5
+SHA256: b8a859c6eff36e354337c749a3d2326f0a2344b0b6ea394c54e026b2e375e166
+Section: 工具
+Description: 全屏截图按钮增加(保存至相册)功能,超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Name: snapper3 minor
+Sileodepiction: https://rootless.002599.xyz/web/com.zqbb.savephotos
+
 Package: cpm.dao.tinge
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -945,6 +996,45 @@ Description: 根据图标颜色，通知角标自动变色，无设置，安装�
 Author: P2KDev
 Name: Tinge(rootless)
 
+Package: dev.theos.orion14
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Theos Team <support@theos.dev>
+Installed-Size: 514
+Depends: firmware (>= 14.0), firmware (<< 17.0), mobilesubstrate (>= 0.9.5000)
+Provides: dev.theos.orion (= 1.0.1)
+Filename: ./debs/dev.theos.orion14_1.0.1_iphoneos-arm64.deb
+Size: 93500
+MD5sum: 054409dc57345021110325f3f98a11ac
+SHA1: 5d50678ba18a3c7eb4d0b220fceeaa4bdc401834
+SHA256: d2f17b82765087a77992edbb4e3169cc7aa32985f62fbdff47e02c51bf078671
+Section: 依赖
+Description: Runtime for tweaks built using Orion and Swift
+Tag: role::developer, compatible_min::ios14.0
+Author: Theos Team <support@theos.dev>
+Depiction: https://chariz.com/get/orion-runtime14
+Icon: https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Name: Orion Runtime (iOS 14 – 16)
+
+Package: jp.akusio.backgrounderaction15
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: akusio_RR
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Size: 9884
+MD5sum: cbdcf3fe651f853ebdcdc5556922bea5
+SHA1: c433cb01dd32c3ef8dea7bf93b3466fb7f9264e3
+SHA256: c217d4739619ea2f4687b5602fd7b81f258ffa96e2d13ca5ae909fce2ef02972
+Section: 工具
+Description: iOS15真实后台
+Author: akusio_RR
+Depiction: https://apt.wxhbts.pro/view/8795
+Icon: https://apt.wxhbts.pro/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: BackgrounderAction15 真后台-Rootless
+Sileodepiction: https://apt.wxhbts.pro/sileo/8795
+
 Package: jp.akusio.milkyway4
 Version: 0.1.1
 Architecture: iphoneos-arm64
@@ -957,6 +1047,23 @@ MD5sum: 99edb14844cd69b105112066b3f8fcf0
 SHA1: f5a1fbaa717230b7e53491ff0a0d2b3dfeb03b3d
 SHA256: e91af083915e376a6a263842a639201a980bcdf6c547dd2cab001082b731c6b2
 Section: Tweaks
+Description: multitasking for iOS15 rootless.
+Author: @akusio_RR
+Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
+Name: MilkyWay4-rootless
+
+Package: jp.akusio.milkyway4
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: @akusio_RR
+Installed-Size: 3464
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Filename: ./debs/jp.akusio.milkyway4_0.1.1_iphoneos-arm64.deb
+Size: 1300016
+MD5sum: 44b37b95d2f63a88104eb6a3727fd6e8
+SHA1: 0f8d1d382dd542b43162467b8a6c73f6e456570b
+SHA256: adf9c018434d6f8161a287427c22620fe10d26c4659da7ad23b8d9dedc8cc7ea
+Section: 工具
 Description: multitasking for iOS15 rootless.
 Author: @akusio_RR
 Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
@@ -999,6 +1106,92 @@ Author: Dcsyhi <dcsyhi1998@gmail.com>
 Depiction: https://chariz.com/get/zetsu
 Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
 Name: Zetsu
+
+Package: jp.soh.freepip
+Version: 0.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jp.soh.freepip_0.0.3-1_iphoneos-arm64.deb
+Size: 6520
+MD5sum: c4570857c12b7763775c5b911f373567
+SHA1: b2ee0510710eb85ab56357b421f0ac4fecf22ba8
+SHA256: a9a7ee15c3faa58b30abdf4a5ead5c2c9ff8833a7588c4e020233d814e177bba
+Section: 工具
+Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Picture on iOS unlimitedly. Long Press PIP window to enable freepip mode. 解锁画中画的限制，可以放在任意位置和调整到任意大小。长按画中画窗口进入 FreePIP 模式进行调整。v0.0.3-1更新：改为默认是正常模式，略微美化FreePIP模式。
+Author: Soh Satoh
+Name: FreePIP
+
+Package: kr.xsf1re.vnodebypass
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 532
+Depends: firmware (>= 15.0), firmware (<< 17.0), com.opa334.ccsupport, libkrw0-dopamine (>= 2.0)
+Filename: ./debs/kr.xsf1re.vnodebypass_0.4.2_iphoneos-arm64.deb
+Size: 67376
+MD5sum: 94558a9d558b3954c5901b124eb2a7f0
+SHA1: 96e6165048c3d8c0815176ba3bcd305feb21c013
+SHA256: 0ba0672242f92ac6f8216780eed6d467345bf11eb3d2c18a2b949dace3388a07
+Section: 工具
+Description: 一键屏蔽越狱环境An expermental tool to hide jailbreak files for bypass detection. (Only supported iOS 15-16 with Dopamine2)
+Tag: role::hacker, compatible::ios15, compatible::ios16
+Author: 一键屏蔽越狱环境
+Depiction: https://cydia.ichitaso.com/depiction/vnodebypass.html
+Icon: https://raw.githubusercontent.com/ichitaso/vnodebypass_theme/main/layout/Library/Themes/vnodebypass.theme/Icon.png
+Name: vnodebypass
+
+Package: lilliana.filzacrack
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: ./debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
+Size: 21364
+MD5sum: baf26a6d64807147205c57fc5fa95040
+SHA1: a9df0b74e62d09ecc48cef87fb53198abdc1ceff
+SHA256: ae0c4e89758862386fdcbbe9c5adf6c586412c5e3f434909fc87ad2a64d250ca
+Section: 工具
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: me.tomt000.copylog
+Version: 1.5.6
+Architecture: iphoneos-arm64
+Maintainer: TomT000
+Installed-Size: 4252
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/me.tomt000.copylog_1.5.6_iphoneos-arm64.deb
+Size: 1523076
+MD5sum: d7a20999d1796b40b51be94961545809
+SHA1: 89d70e2a7951350be8be40cc9e2b2f8b233afc1a
+SHA256: 690c2c23e7e59fed2872a72a5be1307ce646a06797f13e8b9212c546c0c2b105
+Section: 工具
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Name: CopyLog
+
+Package: me.tomt000.stageduo
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: tomt000
+Installed-Size: 8316
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: ./debs/me.tomt000.stageduo_1.1.1_iphoneos-arm64.deb
+Size: 4584224
+MD5sum: 53dc83fe20eae8f5c8d821e532a07ac3
+SHA1: 1e95a2e69c870892be883982b7113ec288c843bc
+SHA256: 30468740d858b2ada77c8f450835320b45d7f025245baf1dcc75bfda4ec40ff9
+Section: 工具
+Description: Stage Manager Reimagined for iPhone
+Author: tomt000
+Name: Dynamic Stage
 
 Package: netskao.awemepurification-rootless
 Version: 2.9-6
@@ -1067,17 +1260,66 @@ Author: Nightwind <nightwinddev@gmail.com>
 Icon: https://img.chariz.cloud/icon/onesettings/icon@3x.png
 Name: OneSettings
 
+Package: org.coolstar.sileo
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/org.coolstar.sileo_2.5_iphoneos-arm64.deb
+Size: 2894580
+MD5sum: c841f72016584edd2bd69c49bc0e472a
+SHA1: ebcdfdec4427b8084dcab1b7ffa79551fa91575a
+SHA256: c9184430f127f05ce0b5c18e6e848c27d84346263a31a305c207da591f62359d
+Section: 工具
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: ovh.exerhythm.cardculator
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: sourcelocation
+Installed-Size: 920
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
+Filename: ./debs/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
+Size: 122432
+MD5sum: 1cf899256167c015031c882198818cd9
+SHA1: b5809ddf66057a4f54fe63f585a69cd4e85275ba
+SHA256: 422dde08d8a1b3cac9eee83deda521f0673de76b51395f562ecb8b980026714c
+Section: 工具
+Description: Calculator, but smaller计算器
+Author: sourcelocation
+Name: Cardculator
+
+Package: preferenceloader
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Installed-Size: 370
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_2.2.7_iphoneos-arm64.deb
+Size: 17500
+MD5sum: 7d954e5ada56dd66113e0e566f8488aa
+SHA1: 7ce5ef6989d3974f9f81695f5d56dc4f53d5e67f
+SHA256: 7575abf83b3b87c33dfb31dc849c9f57cb10e0e499307764abb269e007b06aca
+Section: 依赖
+Description: load preferences in style
+Author: Dhinak G <dhinak@dhinak.net>
+Name: PreferenceLoader
+
 Package: ring
 Version: 1.0.2
 Architecture: iphoneos-arm64
-Maintainer: M哥
+Maintainer: 又是深情的一天
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Filename: ./debs/ring_1.0.2_iphoneos-arm64.deb
-Size: 134964
-MD5sum: 18c95664ced69a62b7c3289720496292
-SHA1: 1b20ed05f87f0ef213ca7b317148fe677f20ec1f
-SHA256: e6b5e20f485ff7ca9eeee476ea5dd86f6d0a283577936928c238cbb1c82d8628
-Section: Tweaks
+Size: 135008
+MD5sum: 666fab3e6babc1eab332caa7362d8e58
+SHA1: 89d4865edcdcaeb690084f0778611a23034357f2
+SHA256: 123ede6ac2193520acdab863f80a1ad5b681095b8d4cda58d9ac4972edf1ccc0
+Section: 美化
 Description: 轻松管理铃声音量！
 Author: yan
 Icon: https://media.havoc.app/660068a52b78a631ec05699f
@@ -1103,6 +1345,158 @@ Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
 Name: Cephei Tweak Support
 Support: https://hashbang.productions/support/
 
+Package: ws.hbang.common
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 3132
+Depends: firmware (>= 15.0)
+Filename: ./debs/ws.hbang.common_2.0_iphoneos-arm64.deb
+Size: 198804
+MD5sum: 8181f6b73637e2bcd23250d0b7fb8e9c
+SHA1: 8c1558ed642dfed30f60891f59e0b6d60913b51c
+SHA256: d64111a4e5c24b4bdc47b4cb0391c045342e7cfdf1d0ac34e1a29d41ddd78ac5
+Section: 工具
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios15.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+Icon: https://img.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
+Support: https://hashbang.productions/support/
+
+Package: xyz.cypwn.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 532
+Depends: mobilesubstrate, firmware (>= 14.0), com.opa334.ccsupport
+Filename: ./debs/xyz.cypwn.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
+Size: 23744
+MD5sum: b03d334fc7703d2511a95142dcab46df
+SHA1: 53f4e50bea63089126ad53a3b0539c8ab2b3c30b
+SHA256: b8052c5eaa3e3277706b46752b5f6ab5d58fd0fb9f142537ae3e57290baa4281
+Section: 工具
+Description: BigShot CC module for iOS 14/15/16 and Snapper 3 plugin. Snapper 3 is NOT required to use this. It can be used as a standalone CC module.
+Author: Jonathan Winger-lang
+Depiction: https://repo.cypwn.xyz/depiction/1537
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/bigshotsnapper3.png
+Name: BigShot for Snapper 3 and CCSupport
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1537
+
+Package: xyz.cypwn.carbridge13
+Version: 2.0.12
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 7344
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/xyz.cypwn.carbridge13_2.0.12_iphoneos-arm64.deb
+Size: 434060
+MD5sum: 3e6c641c4f03ea82cf57da4f11b178ef
+SHA1: db4e75d015dd89eba2a4967db61750fb804048bf
+SHA256: 57f9d4c977d7a89e6db27cb117e931be08ae3ef49648b1a1730f232b753a5503
+Section: 工具
+Description: Open any app in CarPlay! CarPlay
+Author: leftyfl1p
+Depiction: https://repo.cypwn.xyz/depiction/1220
+Icon: https://media.havoc.app/6393d4ecfb3fac29d26b9143
+Name: CarBridge13
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/1220
+
+Package: xyz.cypwn.cr4shed
+Version: 4.3.1-2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), xyz.cypwn.crossoveripc, xyz.cypwn.libnotifications
+Filename: ./debs/xyz.cypwn.cr4shed_4.3.1-2_iphoneos-arm64.deb
+Size: 203720
+MD5sum: 465ddd557e919c54781c4645c7337196
+SHA1: 5532b68ecd21546bee5e32200879b33a7d7a1ba4
+SHA256: 0a41d9a0dc5849ac991ec8719131d6da947e69b2ef08d2b147d1c96687227539
+Section: 工具
+Description: A modern crash reporter for iOS!
+Author: Muirey03
+Depiction: https://repo.cypwn.xyz/depiction/2532
+Icon: https://repo.cypwn.xyz/packages/Cr4shed-Rootless/icon.png
+Name: Cr4shed
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2532
+
+Package: xyz.cypwn.crossoveripc
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./debs/xyz.cypwn.crossoveripc_1.1-1_iphoneos-arm64.deb
+Size: 15540
+MD5sum: 8ac58a7728d844ea4e345948d8d4d345
+SHA1: 506e45795d3b4a5ff0033e33119b6cf257ba166e
+SHA256: 5cf8e808a5d5835787e8cf0adc4ea743fb7fbf557a30700d87ac0582aa041ee5
+Section: 工具
+Description: A cross-process communication tool for sending and receiving messages on iOS 15 & 16 for rootless JBs.
+Author: @CrazyMind90
+Depiction: https://repo.cypwn.xyz/depiction/2530
+Icon: https://repo.cypwn.xyz/packages/CrossOverIPC-Rootless/icon.png
+Name: CrossOverIPC
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2530
+
+Package: xyz.cypwn.dopesaily
+Version: 3.2.4
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0)
+Conflicts: dopesaily, cydia
+Replaces: dopesaily, cydia
+Provides: cydia (= 1.1.36)
+Filename: ./debs/xyz.cypwn.dopesaily_3.2.4_iphoneos-arm64.deb
+Size: 3471792
+MD5sum: 17274298e2eee22c2323532183a39429
+SHA1: d48e5e410447146e317fb23a1b87f3ec5dec9377
+SHA256: 55536db2acaa3725bac4dfe7cf05344723fe535a5db1692aea8d480084f4cd0a
+Section: 工具
+Description: An APT client for rootless jailbreaks. Doper than Sileo.
+Author: Saily Team
+Depiction: https://repo.cypwn.xyz/depiction/2395
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/saily.png
+Name: DopeSaily
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2395
+
+Package: xyz.cypwn.libnotifications
+Version: 0.3-6-1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 8.0)
+Filename: ./debs/xyz.cypwn.libnotifications_0.3-6-1_iphoneos-arm64.deb
+Size: 15328
+MD5sum: eaa7bc4fa8e4b6dfb31fe52e45a712cb
+SHA1: 7763db3f5c55f541974342dda35549b1990b8d30
+SHA256: 2d34ecfdd48a8f19bf26009c601800b43e69afd39a430e6af2e3f7097dceab7e
+Section: 工具
+Priority: optional
+Description: App notification library.
+Author: CokePokes
+Depiction: https://repo.cypwn.xyz/depiction/2531
+Icon: https://repo.cypwn.xyz/packages/libnotifications-Rootless/icon.png
+Name: libnotifications
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2531
+
+Package: xyz.cypwn.swipedownscreenshot
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Filename: ./debs/xyz.cypwn.swipedownscreenshot_1.0_iphoneos-arm64.deb
+Size: 4288
+MD5sum: bab401c5fefa63c22f90454c3ee0a4f1
+SHA1: 0570e5f2e41cb5c199b4b02881e42c030bc35014
+SHA256: c962b31ec64e7cdbd9da9cfd0ccc4d88d3596662184b3d78313a43fa9462cfc3
+Section: 工具
+Description: Swipe down from the top of the screen with two fingers to screenshot.
+Author: M
+Depiction: https://repo.cypwn.xyz/depiction/2398
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/swipedownscreenshot.png
+Name: SwipeDownScreenshot
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2398
+
 Package: xyz.skitty.sixls
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -1121,4 +1515,21 @@ Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
 Name: Six (LS)
 Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
+
+Package: zp.zfolder.rootless
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zp.zfolder.rootless_1.0.4_iphoneos-arm64.deb
+Size: 17856
+MD5sum: a65177ae1393f50994cc7592a61b00c0
+SHA1: d488c1f98a1fe6f9e73788c692bb8df4df892c0e
+SHA256: 6350b276bc951d854f6501d240888b4760f2afbb1ce2854c07a376009b9db94b
+Section: 美化
+Description: 文件夹颜值 ? 美 : 丑
+Author: zqbb
+Name: zFolder
+Sileodepiction: https://rootless.002599.xyz/web/zp.zfolder.rootless
 
