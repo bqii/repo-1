@@ -4,7 +4,7 @@
     "itemCornerRadius":20,
     "banners": [
         {
-            "url": "http://axs6.github.io/repo-1/images/iOS.png",
+            "url": "http://axs6.github.io/repo-1/images/wency.png",
             "title": "",
             "package":"AppData",
             "hideShadow": true
