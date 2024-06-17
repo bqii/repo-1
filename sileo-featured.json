@@ -9,5 +9,11 @@
             "package":"AppData",
             "hideShadow": true
         },
+        {
+            "url": "http://bqii.github.io/repo-1/images/iOS1.png",
+            "title": "",
+            "package":"AppData",
+            "hideShadow": true
+        },
     ]
 }
