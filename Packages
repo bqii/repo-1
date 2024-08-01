@@ -18,6 +18,26 @@ Description: 进入微信设置页面开启文字转语音开关
 Author: Apibug.com
 Name: ApibugTextToVoice
 
+Package: ApibugTextToVoice
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: www.apibug.com <apibug6@gmail.com>
+Depends: mobilesubstrate
+Conflicts: ApibugTextToVoice
+Replaces: ApibugTextToVoice
+Provides: ApibugTextToVoice
+Filename: ./debs/apibugtexttovoice_1.0.5_iphoneos-arm64.deb
+Size: 168896
+MD5sum: 637c5aa4698154ddf8e596a7400966a6
+SHA1: 983b13f5a2458b197fb1be12e1e705289f409258
+SHA256: 0f748e1d5384180e1135e7da216c4fb65c8cb22cb41ac7fda42ceb1db672b75b
+Section: custom
+Priority: optional
+Description: Apibug微信文字转语音插件,官网:www.apibug.com
+Author: www.apibug.com
+Name: ApibugTextToVoice
+
 Package: MisakaHelper
 Version: 1.9-9
 Architecture: iphoneos-arm64
@@ -396,11 +416,11 @@ Version: 0.5-2
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/pkc.rootless_0.5-2_iphoneos-arm64.deb
-Size: 403480
-MD5sum: 72cafc5f7b516572695527f2f70ea185
-SHA1: c1fa651071239ff382aff26c28526bf02a3d9c94
-SHA256: 071dcac277da7ee12b5b92ad70552f582d2c423ae20b3d20e28eaf4ecc45c840
+Filename: ./debs/PKC.rootless_0.5-2_iphoneos-arm64.deb
+Size: 403312
+MD5sum: 1f52047a8ac084c83c36c2433bf42842
+SHA1: 8d2853e819f9b393f2807dd87305579369926e9f
+SHA256: df1f2b2b94b92a36bc48ca769f3a2d72c86a313f03b0c0a61a165e2baeb11910
 Section: 微信
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -414,11 +434,11 @@ Version: 0.5-2
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/PKC.rootless_0.5-2_iphoneos-arm64.deb
-Size: 403312
-MD5sum: 1f52047a8ac084c83c36c2433bf42842
-SHA1: 8d2853e819f9b393f2807dd87305579369926e9f
-SHA256: df1f2b2b94b92a36bc48ca769f3a2d72c86a313f03b0c0a61a165e2baeb11910
+Filename: ./debs/pkc.rootless_0.5-2_iphoneos-arm64.deb
+Size: 403480
+MD5sum: 72cafc5f7b516572695527f2f70ea185
+SHA1: c1fa651071239ff382aff26c28526bf02a3d9c94
+SHA256: 071dcac277da7ee12b5b92ad70552f582d2c423ae20b3d20e28eaf4ecc45c840
 Section: 微信
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -1465,12 +1485,12 @@ Architecture: iphoneos-arm64
 Maintainer: @akusio_RR
 Installed-Size: 3464
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: ./debs/MilkyWay4-rootless.0.1.1.deb
-Size: 1300024
-MD5sum: 99edb14844cd69b105112066b3f8fcf0
-SHA1: f5a1fbaa717230b7e53491ff0a0d2b3dfeb03b3d
-SHA256: e91af083915e376a6a263842a639201a980bcdf6c547dd2cab001082b731c6b2
-Section: Tweaks
+Filename: ./debs/jp.akusio.milkyway4_0.1.1_iphoneos-arm64.deb
+Size: 1300016
+MD5sum: 44b37b95d2f63a88104eb6a3727fd6e8
+SHA1: 0f8d1d382dd542b43162467b8a6c73f6e456570b
+SHA256: adf9c018434d6f8161a287427c22620fe10d26c4659da7ad23b8d9dedc8cc7ea
+Section: 工具
 Description: multitasking for iOS15 rootless.
 Author: @akusio_RR
 Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
@@ -1482,12 +1502,12 @@ Architecture: iphoneos-arm64
 Maintainer: @akusio_RR
 Installed-Size: 3464
 Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: ./debs/jp.akusio.milkyway4_0.1.1_iphoneos-arm64.deb
-Size: 1300016
-MD5sum: 44b37b95d2f63a88104eb6a3727fd6e8
-SHA1: 0f8d1d382dd542b43162467b8a6c73f6e456570b
-SHA256: adf9c018434d6f8161a287427c22620fe10d26c4659da7ad23b8d9dedc8cc7ea
-Section: 工具
+Filename: ./debs/MilkyWay4-rootless.0.1.1.deb
+Size: 1300024
+MD5sum: 99edb14844cd69b105112066b3f8fcf0
+SHA1: f5a1fbaa717230b7e53491ff0a0d2b3dfeb03b3d
+SHA256: e91af083915e376a6a263842a639201a980bcdf6c547dd2cab001082b731c6b2
+Section: Tweaks
 Description: multitasking for iOS15 rootless.
 Author: @akusio_RR
 Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
@@ -1755,12 +1775,12 @@ Architecture: iphoneos-arm64
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Depends: firmware (>= 15.0)
-Filename: ./debs/CepheiTweakSupport.2.0.deb
-Size: 198888
-MD5sum: 61e7d9d00f1edaef7589ea9593c17dc7
-SHA1: 4b9b0714a34378a81519ca6a8f7db609a2eea444
-SHA256: 3c8f09a6006beff67951c9d77c13768743af7ad743aee99661ecd59a5666a479
-Section: Development
+Filename: ./debs/ws.hbang.common_2.0_iphoneos-arm64.deb
+Size: 198804
+MD5sum: 8181f6b73637e2bcd23250d0b7fb8e9c
+SHA1: 8c1558ed642dfed30f60891f59e0b6d60913b51c
+SHA256: d64111a4e5c24b4bdc47b4cb0391c045342e7cfdf1d0ac34e1a29d41ddd78ac5
+Section: 工具
 Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
 Author: HASHBANG Productions <support@hbang.ws>
@@ -1775,12 +1795,12 @@ Architecture: iphoneos-arm64
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Depends: firmware (>= 15.0)
-Filename: ./debs/ws.hbang.common_2.0_iphoneos-arm64.deb
-Size: 198804
-MD5sum: 8181f6b73637e2bcd23250d0b7fb8e9c
-SHA1: 8c1558ed642dfed30f60891f59e0b6d60913b51c
-SHA256: d64111a4e5c24b4bdc47b4cb0391c045342e7cfdf1d0ac34e1a29d41ddd78ac5
-Section: 工具
+Filename: ./debs/CepheiTweakSupport.2.0.deb
+Size: 198888
+MD5sum: 61e7d9d00f1edaef7589ea9593c17dc7
+SHA1: 4b9b0714a34378a81519ca6a8f7db609a2eea444
+SHA256: 3c8f09a6006beff67951c9d77c13768743af7ad743aee99661ecd59a5666a479
+Section: Development
 Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
 Author: HASHBANG Productions <support@hbang.ws>
