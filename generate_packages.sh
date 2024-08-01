@@ -30,8 +30,8 @@ Label: 💫又是深情的一天
 Suite: stable
 Version: 1.0
 Codename: bqii
-Architectures: iphoneos-arm64
-Components: master
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
 Description: bqii Sileo Repository
 Icon: file://CydiaIcon.png
 EOF
